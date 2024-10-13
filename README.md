@@ -1,5 +1,8 @@
 # LangGraph Cloud Example For Education Use-case
 
+![](static/edu_agent.jpg)
+
+## LangGraph Studio
 ![](static/agent_ui.png)
 
 This is an example agent to deploy with LangGraph Cloud.
